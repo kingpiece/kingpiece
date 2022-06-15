@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=200&section=header&text=JunHyuk%20&animation=twinkling&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=200&section=header&text=JunHyuk%20&animation=scaleIn&fontSize=40)
 
 
 
