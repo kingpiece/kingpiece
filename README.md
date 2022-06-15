@@ -1,12 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=200&section=header&text=JunHyuk%20&animation=scaleIn&fontSize=40)
 
 
+# 👋 Hi, I’m @kingpiece
 
-- 👋 Hi, I’m @kingpiece
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👀 I’m interested in ...
+- Gaming (Roblox)
+- 
+# 🌱 I’m currently learning ...
+- Lua language
+- Python
+- Scratch
+- App Inventor
+- Arduino
 
 <!---
 kingpiece/kingpiece is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
