@@ -4,7 +4,7 @@
 # 👋 Hi, I’m @kingpiece
 
 # 👀 I’m interested in ...
-- Gaming (Roblox)
+- Gaming (Roblox,valorant,league of legends)
 - 
 # 🌱 I’m currently learning ...
 - Lua language
