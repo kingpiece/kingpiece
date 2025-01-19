@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=200&section=header&text=JunHyuk%20&animation=scaleIn&fontSize=40)
 
 
-# 👋 Hi, I’m @kingpiece
+# 👋 Hi, I’m @NewSudal
 
 # 👀 I’m interested in ...
 - Gaming (Roblox,GTA5,league of legends)
